@@ -1,4 +1,3 @@
-//Brandon Galli 12/2022
 //Find next higher number with same digits.
 //Example 1 : if num = 25468, o/p = 25486
 //Example 2 : if num = 21765, o/p = 25167
